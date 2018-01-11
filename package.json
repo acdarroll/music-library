@@ -1,0 +1,23 @@
+{
+  "name": "music-library",
+  "version": "1.0.0",
+  "description": "Create a music library with OOP",
+  "main": "library.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdarroll/music-library.git"
+  },
+  "author": "Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acdarroll/music-library/issues"
+  },
+  "homepage": "https://github.com/acdarroll/music-library#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
